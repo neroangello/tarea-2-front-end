@@ -1,0 +1,26 @@
+/* Classes */
+
+
+.pilar:nth-child(1), .pilar:nth-child(2), .pilar:nth-child(3){
+    border-right: 1px solid white;
+}
+
+.pilar{
+    text-align: center;    
+    color: white;
+    background-color: #02243D;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.svg-pilar{
+    width: 2em;
+    height: 2em;
+}
+
+.nav-custom{
+    background-color: #197ABE;
+    color: white;
+}
+
+
